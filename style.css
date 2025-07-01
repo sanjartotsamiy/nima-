@@ -1,0 +1,44 @@
+.asdfghjk{
+    width: 1000px;
+    height: 1700px;
+    background-color:black;
+    margin: 100px auto;
+    border-radius: 50px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.as{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 100px auto;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.asd{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    margin: 100px auto;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.asdf{
+     width: 400px;
+    height: 400px;
+    background-color: green;
+    margin: 100px auto;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.f{
+    background-color: blue;
+    width: 1500px;
+    height: 400px;
+    font-size: 50px;
+    padding: 160px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: center;
+    margin: 100px auto;
+}
